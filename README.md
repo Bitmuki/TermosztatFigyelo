@@ -1,0 +1,1 @@
+Termosztát figyelő és FanCoil vezérlő app
